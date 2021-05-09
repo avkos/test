@@ -1,7 +1,7 @@
 # Getting Started with Test App
 
 This project just for the test
-
+![Alt Text](./example/usage.gif)
 
 ## Setup
 
